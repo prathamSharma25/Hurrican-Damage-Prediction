@@ -1,1 +1,1 @@
-# Hurrican-Damage-Prediction
+# Hurricane-Damage-Prediction
